@@ -1,28 +1,10 @@
 # Justification TP-R-partition-charge-cluster-Web-IIS
 
-Compétence : Gérer le patrimoine Informatique
+![image](https://user-images.githubusercontent.com/102241648/160823858-e9de5006-b970-41c9-aa47-ec7661939f2b.png)
 
-Sous-compétences :
+![image](https://user-images.githubusercontent.com/102241648/160823913-5680b442-6231-4564-bb80-ddc588c9612a.png)
 
-- Recenser et identifier les ressources numériques
+![image](https://user-images.githubusercontent.com/102241648/160824020-e27c15e0-0819-4e6d-9e19-0a0301a92258.png)
 
-- Vérifier les conditions de la continuité d'un service informatique
+![image](https://user-images.githubusercontent.com/102241648/160824104-0445caef-e753-478c-aab0-e1b5a8072f08.png)
 
-Justification :
-
-Mise en place d'un cluster web avec les services IIS et NLB (équilibrage de charges réseau).
-Enfin, après avoir mis en place, des tests d'intégration avec vérifications des conditions de la continuité d'un service informatique ont été faites (extinction d'un serveur, test d'accès page web, vérification basculement,...) 
-
-Compétence : Mettre à disposition des utilisateurs un service informatique
-
-Sous-compétences :
-
-- Réaliser les tests d’intégration et d’acceptation d’un service.
-
-- Déployer un service.
-
-Justification :
-
-Mise en place d'un service apache, mysql ainsi que Heartbeat en DRDB.
-
-Puis vérification de la haute disponibilité de ces services ( extinction d'un serveur du cluster, redémarrage d'un serveur, ...)
